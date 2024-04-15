@@ -1,8 +1,9 @@
 <html>
-  <head>
-    <title>potent</title>
-  <link rel="stylesheet" href="<link rel="stylesheet" href="styles.css"> ">  
-  <a class="link" href="">Посилання на канал</a> 
+    <head>
+        <title>shade of black</title>
+        <link rel="stylesheet" href="styles.css">  
+
+        <a class="link" href="">Посилання на канал</a> 
  <nav>
      <a href="nnn"><b>potent</b></a>
      <a href="nnn"><b>administration</b></a>
@@ -11,23 +12,40 @@
      <a href="nnn"><b>set</b></a>
      <a href="nnn"><b>music</b></a>
  </nav>
-  </head>
-  <body>
-  <main>
-    <section>
-    <article class="fotoo">
-  <img class="foto" src="https://i.pinimg.com/564x/03/51/c6/0351c674d15b0e7a561db5ea363772d4.jpg">
-    <h1>POTENT</h1>
-    <p class="one"><b>Патент — документ, що засвідчує авторство на винахід та виключне право на використання його протягом певного строку. Зазвичай його використовують з назвами сімей або їх оформленням.</b>
-      <p class="two"><b>Ми, власники "SHADE OF BLACK" заявляємо, що назва клану та всі його форми належать нам, як українською так й англійською мовами. Якщо будуть помічені схожі назви - ми будемо змушені вимагати змін.</b></p>
-</p>
-
+    </head>
+    <body>
+    <main>
+       <section class="main">
+           <article class="virt">
+        <img src="https://learn.logikaschool.com/uploads/student/2889475/661d30f07e71d.gif" >
+        <h1>SNADE OF BLACK</h1>
+        <p><b>Віртуальні конференції дозволяють людям спілкуватися, обмінюватися інформацією та спільно працювати, незалежно від їх фізичного місцезнаходження. Вони можуть бути проведені за допомогою спеціальних програм або платформ для відеозв'язку та онлайн-спілкування. У цьому просторі можливо взаємодіяти з об'єктами, людьми або іншими користувачами, хоча фактично вони можуть бути розташовані на великій відстані один від одного. На цьому сайті ви зможете ознайомитись з усіма аспектами віртуальних конференцій та їхніми цікавими фішками.</b></p>
+           </article>
+       </section>
+    </main>
+    <footer>
+    <h2>CONTENT</h2>
+    <article class="list">
+                    <ul>
+                        <li>найбільш поширені запитання</li>
+                        <li>замовлення</li>
+                    </ul>
+    <h2>INFORMATION</h2>
+    <ul>
+                        <li>ціни</li>
+                        <li>трохи про дизайнера</li>
+                        <li>порекомендуйте нам щось нове</li>
+                        <li>ваші пропозиції</li>
+                        <li>інформація про авторське право</li>
+                    </ul>
     </article>
-    </section>
-    
-   
-  </main>
-  </body>
-  <footer>
-  </footer>
+    <h2>SOCIAL MEDIA</h2>
+    <div class="picture">
+    <img src="https://learn.logikaschool.com/uploads/student/2889475/66159a561e498.png" width="250px">
+    <img src="https://learn.logikaschool.com/uploads/student/2889475/66159c0a8e0fa.png" width="150px">
+    <img src="https://learn.logikaschool.com/uploads/student/2889475/66159cf418e23.png" width="150px">
+    <img src="https://learn.logikaschool.com/uploads/student/2889475/66159e68af652.png" width="130px">
+    </div>
+    </footer>
+    </body>
 </html>
